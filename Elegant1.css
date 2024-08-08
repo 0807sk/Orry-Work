@@ -1,0 +1,90 @@
+*{
+    font-family: sans-serif;
+}
+.header{
+    background-image: url("https://media.licdn.com/dms/image/D5612AQFmg7r7iWt8gw/article-cover_image-shrink_600_2000/0/1667327478735?e=2147483647&v=beta&t=FBxA98XxCxa_NgYt7A-n28SfVDVp6jUJqpeVPVFMEDU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    color: aliceblue;
+}
+.headers{
+    display: inline-flex;
+    padding-right: 6.5vw;
+    font-family:sans-serif
+    
+}
+h6:hover{
+    color: rgb(0, 140, 255);
+    cursor: pointer;
+    font-size: 11px;
+}
+.box{
+    border-color: aliceblue;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(28, 11, 70);
+    border-radius: 40px;
+    border-color: white;
+    display: flex;
+}
+
+
+h6{
+    padding-left: 2vw;
+}
+img{
+    padding-top: 9px;
+    float: left;
+    padding-left: 20px;
+    height: 35px;
+}
+.head:hover{
+    height: 40px;
+}
+
+.body{
+    text-align: center;
+    padding: 125px;    
+}
+
+hr{
+    width: 50px;
+}
+.about{
+    text-align: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 5vw;
+}
+.para{
+    padding: 3vw;
+    padding-bottom: 7vw;
+    font-family: sans-serif;
+    color: rgb(66, 65, 65);
+}
+
+.illustration{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREp0669Pp82PYbnsRJQchqYUbfiRPkeTfSIJ7qTw7LXYqJqLs3Bc5uOR0vZe7D9FosFCQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: left;
+}
+.imageI{
+    height: 349px;
+    float: right;
+}
+.d{
+    padding-top: 100px;
+    padding-left: 70px;
+}
+.da{
+    padding-left: 70px;
+    padding-right: 65vw ;
+}
+.more{
+    padding-left: 70px;
+    text-decoration: underline;
+    padding-bottom: 140px;
+}
